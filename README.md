@@ -33,7 +33,7 @@ The analysis reveals several critical insights:
   * *Southampton as Primary Embarkation:* The majority of passengers embarked from Southampton.
   * *Fare-Survival Correlation:* Higher average fares paid in first class correlated with higher survival rates.
 
-For a detailed breakdown of all generated insights, please refer to the [Detailed Insights Report]((https://github.com/sammydey4u/Titanic-Survival-Analyis-Dasboard/commit/889ddc882c6d9703b8a17f8f0088a26f1d2b1850)).
+For a detailed breakdown of all generated insights, please refer to the [Detailed Insights Report](https://github.com/sammydey4u/Titanic-Survival-Analyis-Dasboard/commit/889ddc882c6d9703b8a17f8f0088a26f1d2b1850).
 
 ## Tools Used
 
@@ -46,9 +46,10 @@ For a detailed breakdown of all generated insights, please refer to the [Detaile
 You can explore the interactive dashboard in a few ways:
 
 1.  *Directly on GitHub (Screenshot):* See a preview of the dashboard below:
+   
 
  
-2.  *Download the Power BI File:*
+3.  *Download the Power BI File:*
 
       * Download the Titanic_Dashboard.pbix file from this repository.
       * Ensure you have [Power BI Desktop](https://powerbi.microsoft.com/en-us/downloads/) installed on your computer.
@@ -57,7 +58,8 @@ You can explore the interactive dashboard in a few ways:
 ## Detailed Insights Report
 
 A comprehensive report detailing all the findings and analyses from this dashboard can be found here:
-[Insights Report]()
+[Insights Report](https://github.com/sammydey4u/Titanic-Survival-Analyis-Dasboard/commit/889ddc882c6d9703b8a17f8f0088a26f1d2b1850).
+
 
 ## Future Enhancements
 
