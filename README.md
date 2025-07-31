@@ -33,7 +33,7 @@ The analysis reveals several critical insights:
   * *Southampton as Primary Embarkation:* The majority of passengers embarked from Southampton.
   * *Fare-Survival Correlation:* Higher average fares paid in first class correlated with higher survival rates.
 
-For a detailed breakdown of all generated insights, please refer to the [Detailed Insights Report](https://www.google.com/search?q=Reports/Insights_Report.md).
+For a detailed breakdown of all generated insights, please refer to the [Detailed Insights Report]((https://github.com/sammydey4u/Titanic-Survival-Analyis-Dasboard/commit/889ddc882c6d9703b8a17f8f0088a26f1d2b1850)).
 
 ## Tools Used
 
