@@ -51,7 +51,7 @@ https://github.com/sammydey4u/Titanic-Survival-Analyis-Dasboard/blob/main/Screen
  
 3.  *Download the Power BI File:*
 
-      * Download the Titanic_Dashboard.pbix file from this repository.
+      * Download the [Titanic_Dashboard.pbix file](https://github.com/sammydey4u/Titanic-Survival-Analyis-Dasboard/blob/main/Titanic%20Dashboard.pbix) from this repository.
       * Ensure you have [Power BI Desktop](https://powerbi.microsoft.com/en-us/downloads/) installed on your computer.
       * Open the .pbix file with Power BI Desktop to interact with the dashboard.
 
@@ -69,4 +69,4 @@ A comprehensive report detailing all the findings and analyses from this dashboa
 
 ## Contact
 
-Connect with me on LinkedIn: [Your LinkedIn Profile Link]
+Connect with me on LinkedIn: [http://linkedin.com/in/samson-osarumwense]
