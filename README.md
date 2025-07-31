@@ -47,7 +47,7 @@ You can explore the interactive dashboard in a few ways:
 
 1.  *Directly on GitHub (Screenshot):* See a preview of the dashboard below:
    
-
+https://github.com/sammydey4u/Titanic-Survival-Analyis-Dasboard/blob/main/Screenshot%202025-07-31%20071706.png
  
 3.  *Download the Power BI File:*
 
